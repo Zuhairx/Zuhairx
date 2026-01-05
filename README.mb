@@ -1,68 +1,49 @@
-# 🍮 PT Pudding Menu Management System (Java GUI & MySQL)
+# 👋 Hi, I'm Zuu
 
-PT Pudding Menu Management System is a Java-based desktop application with a graphical user interface (GUI) that integrates with a MySQL database. This application is designed to manage pudding menu data efficiently using full CRUD (Create, Read, Update, Delete) operations.
+🚀 **Information Systems Graduate | IT Support | Fullstack Developer | UI/UX Enthusiast**
 
-The system provides an interactive Swing-based interface that allows users to insert new menu items, view existing data, update menu details, and delete records directly from the database. Input validation, database connectivity handling, and real-time table updates are implemented to ensure data accuracy and usability.
+I’m a passionate tech enthusiast with hands-on experience in **IT Support**, **ERP systems**, and **fullstack application development**. I enjoy building end-to-end systems, crafting user-friendly interfaces, and continuously learning new technologies.
 
----
-
-## 🚀 Features
-- Java Swing-based GUI application
-- MySQL database integration (JDBC)
-- CRUD operations (Insert, View, Update, Delete)
-- Real-time data display using JTable
-- Input validation for numeric fields (price & stock)
-- Search menu by menu code
-- Auto-generated menu code
-- User-friendly pop-up notifications
-- Modular database connection handler
+🤝 **Currently open to collaboration on projects**, especially in web development, Java applications, UI/UX design, and system-based projects.
 
 ---
 
-## 🛠️ Tech Stack
-- Java (Core Java)
-- Java Swing (GUI)
-- MySQL
-- JDBC (MySQL Connector)
-- Object-Oriented Programming (OOP)
-- Desktop Application Development
+## 🧑‍💻 About Me
+- 🎓 Bachelor’s Degree in **Information Systems**
+- 💼 Experienced as **IT Support** in an ERP Consultant company
+- 🧠 Familiar with **ERP Systems (Odoo, Mendix)** and business process analysis
+- 🎨 Interested in **UI/UX Design**, usability, and user-centered design
+- 🖥️ Experienced in building **Java Console Apps**, **Java GUI (Swing + MySQL)**, and **Web Projects**
+- 📈 Used to handling client issues, bug fixing, testing (UAT), and system documentation
+- 🤝 Open to **project collaboration, freelance work, and learning-based teamwork**
 
 ---
 
-## 🗂️ Database Structure
-**Table: `datamenupudding`**
-| Field | Description |
-|-----|------------|
-| KodeMenu | Primary key (Auto-generated) |
-| NamaMenu | Menu name |
-| HargaMenu | Menu price |
-| StokMenu | Menu stock |
+## 🛠️ Tech Stack & Tools
+- **Frontend**: HTML, CSS, JavaScript, UI/UX Design Principles  
+- **Backend**: Java, SQL  
+- **Database**: MySQL  
+- **ERP & Low-Code**: Odoo, Mendix  
+- **Design & Modeling**: Figma, Canva, Visual Paradigm  
+- **Tools**: Git & GitHub, WordPress  
+- **Methodology**: Agile & Scrum  
 
 ---
 
-## ▶️ How to Run
-1. Import the project into your Java IDE (IntelliJ / Eclipse / NetBeans)
-2. Ensure MySQL is running and database `pt_pudding` is created
-3. Import table `datamenupudding`
-4. Add MySQL JDBC Connector to the project library
-5. Run `GUI.java`
+## 🌄 Hobbies & Interests
+- 🥾 **Hiking** — Experienced hiking several mountains (7 Summits Jawa Tengah)  
+- 🌍 **Traveling** — Exploring new places, cultures, and gaining fresh perspectives  
+- 💻 **Coding** — Building systems and experimenting with new tech stacks  
+- 🎮 **Gaming** — Strategy and competitive games that enhance problem-solving skills  
 
 ---
 
-## 🎯 Learning Outcomes
-- Building desktop applications using Java Swing
-- Implementing database connectivity using JDBC
-- Applying CRUD operations in real-world scenarios
-- Managing UI events with ActionListener
-- Validating user input to prevent invalid data
-- Integrating GUI components with relational databases
+## 📫 Let’s Connect
+- 🤝 Open for **Collaboration & Projects**
+- 💼 LinkedIn: *(add your LinkedIn here)*  
+- 🌐 Portfolio Website: *(add your portfolio link)*  
+- 📧 Email: *(optional)*  
 
 ---
 
-## 🧑‍💻 Author
-**Muhammad Zuhair Yuliansyah**
-
----
-
-## 🔖 Tags
-Java, Java Swing, MySQL, JDBC, GUI Application, CRUD System, Desktop Application, Database Management
+⭐ *Feel free to explore my repositories. Let’s collaborate and build something awesome together!*  
